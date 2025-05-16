@@ -2,6 +2,8 @@ import json
 import os
 import time
 
+# Moises Joaquin Negron Blanco
+
 ARCHIVO = 'EMPLEADOS.json'
 
 def cargar_empleados():
